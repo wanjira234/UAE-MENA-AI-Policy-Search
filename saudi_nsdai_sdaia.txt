@@ -1,0 +1,66 @@
+Saudi Arabia's National Strategy for Data and AI (NSDAI) and SDAIA
+========================================================================
+
+Institutional structure
+---------------------------
+The Saudi Data and Artificial Intelligence Authority, established by royal
+decree in 2019, is the Kingdom's central body for both data governance and AI
+strategy. SDAIA operates through two principal subsidiaries: the National
+Data Management Office, which handles data governance and regulation, and the
+National Center for Artificial Intelligence, which leads AI research,
+development, and adoption. A third unit, the National Information Center,
+supports the broader mandate. This dual structure lets SDAIA pursue
+regulatory and promotional goals at the same time, rather than splitting them
+across separate agencies the way some other jurisdictions do.
+
+The National Strategy for Data and AI
+-----------------------------------------
+SDAIA announced the National Strategy for Data and Artificial Intelligence
+(NSDAI) in October 2020 at the first Global AI Summit in Riyadh, under the
+banner "Where the best of Data and AI is made reality." The strategy aims to
+position Saudi Arabia as a global leader in data and AI by 2030, using a
+phased approach: addressing national urgencies first, then building
+longer-term competitive foundations. Measurable targets cover investment
+raised, the number of trained data and AI specialists, the number of AI
+startups, and the Kingdom's standing in open-data and research-publication
+rankings.
+
+Data governance framework
+-----------------------------
+SDAIA has built a national data governance framework covering collection,
+storage, sharing, quality, privacy, and security standards across both
+government and private-sector entities. This framework is designed to make
+high-quality data available for AI development while still protecting
+individual privacy, and it works alongside Saudi Arabia's Personal Data
+Protection Law, which SDAIA helped develop and which draws on international
+best practice while accommodating the Kingdom's specific legal context.
+
+Monitoring and accountability
+---------------------------------
+Progress against NSDAI targets is tracked through an AI readiness index for
+government entities and dashboards published on the National Data Governance
+Platform. SDAIA conducts periodic reviews and publishes public reporting
+intended to support international benchmarking, signalling that the strategy
+is meant to be evaluated against external as well as internal standards.
+
+Risk-based AI regulation
+----------------------------
+SDAIA has released a draft National AI Risk Management Framework that
+introduces a risk-based classification system distinguishing low-risk from
+high-risk AI applications, each carrying different compliance expectations
+for developers and deployers. As of the most recent guidance, Saudi Arabia
+does not yet have a single standalone law covering all AI systems; instead,
+AI-relevant obligations are distributed across the PDPL, the NSDAI's
+governance framework, and this emerging risk-classification framework, with
+observers expecting consolidation toward a dedicated AI law over time.
+
+Relationship to commercial AI development
+----------------------------------------------
+A 2025 institutional shift split Saudi Arabia's AI development across two
+tracks: SDAIA and NCAI retain research authority, while HUMAIN, a
+state-backed company launched under the Public Investment Fund, was
+positioned as the production and commercial distribution channel for advanced
+Saudi AI models, including the Arabic-language model ALLaM. This split
+mirrors how some other countries separate state research institutes from
+commercial champions, and 2026 was designated the Kingdom's "Year of
+Artificial Intelligence" to mark the shift from strategy to execution.

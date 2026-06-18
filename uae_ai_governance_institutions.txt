@@ -1,0 +1,58 @@
+UAE AI Governance Institutions and the National AI Security Policy
+=======================================================================
+
+Institutional landscape
+--------------------------
+UAE AI governance is spread across several bodies rather than concentrated in
+a single regulator. The Minister of State for Artificial Intelligence holds
+overall policy responsibility and chairs coordination with the Emirates
+Council for Artificial Intelligence and Digital Transactions, which aligns
+federal and emirate-level implementation. Data protection sits separately
+with the UAE Data Office, created under Federal Decree-Law No. 44 of 2021.
+Security-specific oversight of AI systems is led by the Cyber Security
+Council, which issued the National Artificial Intelligence Security Policy in
+2025.
+
+International policy framework
+----------------------------------
+In September 2024, the UAE Cabinet issued an international policy on AI that
+builds on the country's earlier AI charter and sets out a strategic framework
+for pursuing the UAE's AI targets while following internationally recognised
+best practices. As part of this framework, the UAE introduced a "Seal of
+Approval" intended to recognise AI companies that meet high standards of
+quality and ethics, giving the government a way to reward responsible
+development rather than relying solely on penalties for non-compliance.
+
+The National AI Security Policy
+-----------------------------------
+The Cyber Security Council's 2025 policy complements the National AI Strategy
+2031 by focusing specifically on the secure, controlled, and trustworthy
+deployment of AI systems. Its core themes are risk management, mandatory
+human oversight for consequential decisions, and protection against misuse of
+AI capabilities. Where the National AI Strategy sets ambition and the PDPL
+governs personal data, this policy is the instrument most directly concerned
+with AI system security posture: how models are deployed, monitored, and
+constrained against adversarial or unintended use.
+
+Funding and infrastructure backing
+---------------------------------------
+Abu Dhabi's sovereign wealth funds, Mubadala and ADQ, play a direct role in
+translating policy into infrastructure. Both funds finance large-scale AI
+compute and data infrastructure, establish or back AI-focused companies and
+research funds, and form partnerships with established international AI
+players. This sovereign-capital backing is one of the more distinctive
+features of the UAE's approach compared with jurisdictions where AI policy is
+purely regulatory: the government is simultaneously the rule-setter and one
+of the largest capital allocators in the domestic AI ecosystem, including
+through the US-UAE AI Acceleration Partnership aimed at building AI
+infrastructure with US public and private partners.
+
+How the pieces fit together
+--------------------------------
+A useful way to separate these instruments: the National AI Strategy 2031 sets
+the destination and economic targets; the PDPL governs how personal data may
+be used, including in AI training and inference; the National AI Security
+Policy governs how AI systems themselves must be secured and overseen once
+deployed; and the Seal of Approval and sovereign fund activity are the
+incentive and capital mechanisms meant to pull the ecosystem toward that
+destination faster than regulation alone would achieve.

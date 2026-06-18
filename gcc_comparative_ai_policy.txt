@@ -1,0 +1,61 @@
+Comparing AI Policy Approaches Across the UAE and Saudi Arabia
+====================================================================
+
+Shared strategic logic
+---------------------------
+Both the UAE and Saudi Arabia treat artificial intelligence as a pillar of
+post-oil economic diversification rather than as a narrow technology
+portfolio. The UAE frames this through its National Strategy for Artificial
+Intelligence 2031 and the wider Centennial 2071 vision; Saudi Arabia frames it
+through the National Strategy for Data and AI under the umbrella of Vision
+2030. Both countries set explicit, numeric economic targets rather than only
+qualitative ambitions, and both created a dedicated ministerial or
+authority-level role years before most peer governments did: the UAE
+appointed the world's first Minister of State for Artificial Intelligence in
+2017, while Saudi Arabia established SDAIA by royal decree in 2019.
+
+Differences in institutional design
+----------------------------------------
+The two countries differ in how they distribute authority. The UAE spreads
+responsibility across multiple bodies: the Minister of State for AI sets
+policy direction, the Emirates Council for AI and Digital Transactions
+coordinates federal and emirate-level execution, the UAE Data Office governs
+personal data specifically, and the Cyber Security Council owns AI-specific
+security policy. Saudi Arabia concentrates more authority inside a single
+authority, SDAIA, which runs both data governance and AI development through
+its NDMO and NCAI subsidiaries respectively. Neither structure is obviously
+superior; the UAE's distributed model can move on parallel tracks but
+requires more coordination, while Saudi Arabia's concentrated model
+simplifies accountability but places more load on one institution.
+
+Differences in commercial structure
+-----------------------------------------
+Saudi Arabia has more explicitly separated research from commercialisation,
+with SDAIA and NCAI retaining research authority while HUMAIN, backed by the
+Public Investment Fund, serves as the commercial and production arm for
+advanced models such as ALLaM. The UAE's approach blends sovereign capital
+and commercial development more directly through Mubadala and ADQ, which
+both fund infrastructure and take direct stakes in AI companies, rather than
+channelling that role through a single dedicated commercial entity.
+
+Data protection as a shared foundation
+-------------------------------------------
+Both countries have moved to establish comprehensive personal data protection
+laws as a foundation for trustworthy AI deployment: the UAE's Federal
+Decree-Law No. 45 of 2021 and Saudi Arabia's Personal Data Protection Law,
+developed with SDAIA's involvement. Both laws draw on GDPR as a reference
+point while adapting provisions to local legal and administrative structures,
+and both explicitly anticipate that AI-driven automated decision-making
+creates privacy and oversight obligations beyond ordinary data processing.
+
+What this means for AI deployment in the region
+-------------------------------------------------------
+For an organisation or researcher operating across both markets, the
+practical implication is that compliance cannot be treated as a single
+regional standard: data residency rules, AI security expectations, and
+risk-classification frameworks differ enough between the UAE and Saudi Arabia
+that GDPR-style compliance, or compliance with one country's framework, does
+not transfer automatically to the other. Both jurisdictions are also still in
+active rule-making, with Saudi Arabia's AI risk framework still in draft form
+and the UAE's AI Security Policy only issued in 2025, so organisations should
+expect continued change rather than a settled baseline.

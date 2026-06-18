@@ -1,0 +1,65 @@
+UAE National Strategy for Artificial Intelligence 2031
+=========================================================
+
+Origin and scope
+-----------------
+Announced by the UAE Cabinet in October 2017 and formally adopted in 2019, this
+strategy is the country's overarching framework for becoming a global hub for
+artificial intelligence by 2031. It sits inside the broader UAE Centennial 2071
+vision and is overseen by the Minister of State for Artificial Intelligence, a
+role the UAE created as the first of its kind in the world. Implementation is
+coordinated through the Emirates Council for Artificial Intelligence and Digital
+Transactions, which keeps federal and emirate-level bodies moving in step with
+one another.
+
+Strategic objectives
+---------------------
+The strategy lays out eight objectives: build a reputation as an AI destination,
+strengthen the UAE's competitive position in priority sectors through AI
+deployment, grow a fertile domestic AI ecosystem, embed AI across government
+services to improve citizens' daily lives, attract and train AI talent, bring
+world-leading research capability into target industries, supply the data and
+infrastructure needed to make the UAE a testbed for AI, and put in place strong
+governance and effective regulation.
+
+Talent and research
+--------------------
+Workforce development is treated as central to the whole effort. Plans include
+public AI literacy campaigns, specialised upskilling for STEM graduates and
+government staff, and partnerships with international experts. Two flagship
+mechanisms support this: a National Virtual AI Institute meant to pool global
+and local research expertise, and a Key Thinkers Program that brings leading
+researchers into direct collaboration with UAE institutions. An open-access AI
+library is also planned to make accumulated knowledge broadly available rather
+than siloed inside individual agencies.
+
+Sector deployment and targets
+------------------------------
+AI adoption is targeted at concrete societal problems such as healthcare
+improvement and traffic safety, partly through national AI challenges that
+invite solutions to specific problems. On the economic side, the strategy aims
+to lift AI's contribution to GDP from roughly 9 percent toward 45 percent by
+2031, a shift estimated to add about AED 335 billion in economic value. Related
+targets include training 10,000 UAE-based data scientists and machine learning
+engineers, supported by golden visa pathways for international experts, and
+moving public services toward a fully paper-free standard across all emirates.
+
+Governance and accountability
+-------------------------------
+The strategy commits to annual AI Value Reports that track outcomes such as
+jobs created, patents filed, and carbon savings, intended to keep the roadmap
+accountable rather than aspirational. It also anticipates that AI agents will
+increasingly carry out operational government functions directly, such as
+screening visa applications or pre-clearing shipping manifests, which raises
+the stakes for the governance and oversight mechanisms described elsewhere in
+UAE policy, particularly the National AI Security Policy and the Personal Data
+Protection Law.
+
+Relationship to other instruments
+------------------------------------
+This strategy is the umbrella document; it does not itself set out data
+protection rules or AI-specific security requirements. Those are handled by
+separate instruments, namely Federal Decree-Law No. 45 of 2021 (the Personal
+Data Protection Law) and the National Artificial Intelligence Security Policy
+issued by the Cyber Security Council. Readers looking for compliance detail
+should consult those documents rather than this strategic overview.

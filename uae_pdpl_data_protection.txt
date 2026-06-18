@@ -1,0 +1,70 @@
+UAE Personal Data Protection Law (Federal Decree-Law No. 45 of 2021)
+========================================================================
+
+Background
+-----------
+The UAE Cabinet enacted Federal Decree-Law No. 45 of 2021 in November 2021,
+giving the country its first comprehensive federal data protection law. It
+took effect on 2 January 2022 following a six-month grace period for
+organisations to reach compliance. The law is commonly referred to as the
+PDPL. A companion law, Federal Decree-Law No. 44 of 2021, established the UAE
+Data Office as the dedicated regulator responsible for proposing data
+protection policy, approving compliance standards, handling complaints, and
+issuing implementation guidance.
+
+Scope and applicability
+-------------------------
+The PDPL applies to any data controller or processor located in the UAE that
+processes personal data, regardless of whether the individuals concerned are
+inside or outside the country. It also reaches organisations established
+outside the UAE if they process personal data belonging to UAE residents,
+giving it an extraterritorial reach similar in spirit to the EU's GDPR. Several
+categories sit outside its scope: government data, public-sector entities,
+purely personal use of data, health and credit data (which are governed by
+their own sector-specific laws), and entities operating in free zones that
+already maintain their own data protection regimes, such as the Dubai
+International Financial Centre.
+
+Core obligations
+------------------
+Organisations subject to the PDPL must establish a valid legal basis before
+processing personal data, put in place appropriate technical and
+organisational safeguards, appoint a Data Protection Officer where the volume
+or sensitivity of processing warrants it, and carry out Data Protection Impact
+Assessments for higher-risk processing activities. The law also sets
+conditions, rather than an outright ban, on transferring personal data outside
+the UAE, with transfers permitted to jurisdictions the UAE Data Office
+recognises as offering adequate protection.
+
+Rights for individuals
+-------------------------
+Data subjects gain a defined set of rights under the law, including the right
+to be informed about how their data is processed and a right relevant
+specifically to automated decision-making: individuals may object to being
+subject to a decision based solely on automated processing, including
+AI-driven decisions, where that decision produces legal or similarly
+significant effects. This provision is one of the clearest points of contact
+between the PDPL and AI governance more broadly, since it constrains how
+automated systems can be deployed against UAE residents without human
+oversight.
+
+Enforcement
+-------------
+The UAE Data Office has moved relatively quickly on enforcement and guidance
+compared with the slower early years some other jurisdictions experienced
+after passing similar laws. Administrative fines apply for violations, with
+exact amounts left to executive regulations; violations can also expose
+organisations to civil liability and regulatory inspections. Practitioners
+note that GDPR compliance does not automatically satisfy PDPL requirements,
+particularly around cross-border transfer rules, since adequacy is determined
+by the UAE Data Office rather than by reference to EU adequacy findings.
+
+Relevance to AI deployments
+------------------------------
+For organisations deploying AI systems in the UAE, the PDPL's most consequential
+provisions concern consent for data used in training or inference, data
+residency requirements that can affect where models and pipelines may run,
+and the right to an explanation when automated decisions carry significant
+consequences. The PDPL itself is not an AI-specific law; AI-focused security
+expectations are instead set out separately in the National Artificial
+Intelligence Security Policy of 2025.
